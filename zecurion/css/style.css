@@ -336,7 +336,7 @@ button.feature-btn:hover{
 }
 .subscribe form a::after {
 	content: '';
-	background: url(/image/icon/arrow.png) no-repeat center center;
+	background: url(/image/arrow.png) no-repeat center center;
 	padding: 10px 15px 0;
 	font-size: 4px;
 }
@@ -627,7 +627,7 @@ button.feature-btn:hover{
 }
 
 .section-steps .steps-line {
-	background-image: url(/image/icon/line-arrow.png);
+	background-image: url(/image/line-arrow.png);
 	width: 163px;
 	height: 11px;
 	margin-top: 50px;
